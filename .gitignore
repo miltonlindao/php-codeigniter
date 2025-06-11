@@ -1,0 +1,16 @@
+src/admin_platform/application/logs/
+src/admin_platform/application/cache/
+src/admin_platform/application/vendor/
+src/admin_platform/application/tests/build
+src/admin_platform/assets/customjs/dist/*.js
+src/admin_platform/assets/css/dist/*.css
+src/admin_platform/node_modules/
+src/partners/application/vendor/
+src/partners/application/logs/
+src/partners/application/cache/
+*.zip
+*.log
+*.cache
+src/partners/assets/sitesfile/image/profile/
+src/partners/assets/captcha/*.*
+keys/google/*.*
