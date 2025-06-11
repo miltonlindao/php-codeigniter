@@ -1,0 +1,22 @@
+{
+    "name": "foobar/admin-platform",
+    "description": "Foobar Admin Platform",
+    "type": "project",
+    "require": {
+        "aws/aws-sdk-php": "^3.261",
+        "sendgrid/sendgrid": "~7",
+        "google/cloud": "^0.229.0",
+        "kreait/firebase-php": "^6.9",
+        "giggsey/libphonenumber-for-php": "^8.13"
+    },    
+    "authors": [
+        {
+            "name": "",
+            "email": "foo@bar.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.3",
+        "kenjis/ci-phpunit-test": "^3.0"
+    }
+}
